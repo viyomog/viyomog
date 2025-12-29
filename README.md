@@ -1,6 +1,3 @@
-<!-- ========= Banner ========= -->
-![Banner](https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=80)
-
 # 👋 Hey, I'm Viyom
 
 I love building things with code — especially around **web development, Python, and modern JavaScript tools**.  
