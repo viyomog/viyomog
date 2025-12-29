@@ -27,10 +27,6 @@ I’m always exploring new tech, improving my skills, and turning ideas into rea
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viyomog&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viyomog&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=viyomog&theme=tokyonight)
 
 ---
