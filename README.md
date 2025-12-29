@@ -1,5 +1,5 @@
 <!-- ========= Banner ========= -->
-![Banner](https://source.unsplash.com/1600x400/?coding,technology,developer)
+![Banner](https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=80)
 
 # 👋 Hey, I'm Viyom
 
@@ -26,7 +26,7 @@ I’m always exploring new tech, improving my skills, and turning ideas into rea
 
 ---
 
-![Code Visual](https://source.unsplash.com/1200x300/?programming,web,code)
+![Code Visual](https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1400&q=80)
 
 ## 📊 GitHub Stats
 
@@ -52,6 +52,6 @@ I’m always open to **collabs, ideas, or discussions about tech** — feel free
 ---
 
 <!-- ========= Footer ========= -->
-![Footer](https://source.unsplash.com/1600x300/?neon,abstract,tech)
+![Footer](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1600&q=80)
 
 ⭐ Thanks for visiting my profile — appreciate it!
