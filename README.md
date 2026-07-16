@@ -43,11 +43,11 @@ I enjoy building practical projects, improving my coding skills, and exploring n
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viyomog&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viyomog&show_icons=true&theme=github_dark&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viyomog&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viyomog&layout=compact&theme=github_dark&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=viyomog&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=viyomog&theme=github-dark)
 
 ---
 
